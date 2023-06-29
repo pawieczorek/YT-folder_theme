@@ -4,7 +4,7 @@
 
 The theme designed to display a windows explorer-like folder tree with yt video descriptions and thumbnails. These data come from yt api and can be get by the plugin prepared for this purpose. 
 
-
+https://github.com/pawieczorek/YT-folders_plugin
 
 == Installation ==
 
